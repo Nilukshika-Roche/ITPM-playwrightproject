@@ -34,6 +34,8 @@ Install Google Chrome (recommended) or let Playwright install Chromium
 
 
 Installation Steps
+
+
 pip install -U pip
 pip install playwright openpyxl
 playwright install
