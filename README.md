@@ -1,8 +1,7 @@
-# IT3040 – ITPM Assignment 1  
-## Playwright Automation – Chat Sinhala Transliteration Testing
+ IT3040 – ITPM Assignment 1  
+ Playwright Automation – Chat Sinhala Transliteration Testing
 
 ---
-
  Project Overview
 
 This project automates testing of the Chat Sinhala Transliteration System available at:
@@ -32,15 +31,15 @@ prerequisites
 Ensure Python 3.8 or above is installed.
 Install Google Chrome (recommended) or let Playwright install Chromium
 
-
+---
 Installation Steps
 
 
-pip install -U pip
-pip install playwright openpyxl
-playwright install
+- pip install -U pip
+- pip install playwright openpyxl
+- playwright install
 
-
+---
 
 How to Run the Tests
 
